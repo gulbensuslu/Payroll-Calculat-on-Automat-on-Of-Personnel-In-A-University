@@ -1,0 +1,13 @@
+Gülben	Süslü	F1456	FacultyMembers	2001
+Sevda	jale	S14	Security	2000
+ ***MONITORING VALUES OF PERSONNEL***
+F1456	40	45	40	40
+S14	20	20	20	20
+Gülben	Süslü	F1456	FacultyMembers	2001
+Sevda	jale	S14	Security	2000
+ ***MONITORING VALUES OF PERSONNEL***
+F1456	40	45	40	40
+S14	20	20	20	20
+yggujy	jh	huh	FacultyMembers	huhh
+ ***MONITORING VALUES OF PERSONNEL***
+jbhbhj	bkjk	khjk	hkıhu	bkjk
